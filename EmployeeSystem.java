@@ -132,7 +132,7 @@ public class EmployeeSystem {
             System.out.println("4. Delete Employee");
             System.out.println("5. Search Employee by Name");
             System.out.println("6. Sort Employees by Salary");
-            System.out.println("7. Sort Employees by Name");
+            System.out.println("7. Sorttttttt Employees by Name");
             System.out.println("8. Exit");
             System.out.print("Enter your choice: ");
             choice = sc.nextInt();
